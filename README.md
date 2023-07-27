@@ -1,1 +1,2 @@
-# Arduino-NTPclient EXP8266 
+# Arduino-NTPclient ESP8266  
+- Easy to setup 
